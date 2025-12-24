@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "On My Way",
+  "base_artist": "Charlu",
+  "createdAt": "2025-12-24T13:00:03.660130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker feat. Sabrina Carpenter & Farruko",
+      "has_synced": true,
+      "path": "select/01_On_My_Way_Alan_Walker_feat._Sabrina_Carpenter_&_Farruko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker;Farruko;Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/02_On_My_Way_Alan_Walker;Farruko;Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On My Way to You",
+      "artist": "Cody Johnson",
+      "has_synced": true,
+      "path": "select/03_On_My_Way_to_You_Cody_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On My Way (Mixed)",
+      "artist": "Alan Walker & Sabrina Carpenter",
+      "has_synced": true,
+      "path": "select/04_On_My_Way_(Mixed)_Alan_Walker_&_Sabrina_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/05_On_My_Way_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I’m On My Way",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/06_I’m_On_My_Way_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/07_On_My_Way_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm on My Way",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/08_I'm_on_My_Way_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "On My Way Home",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/09_On_My_Way_Home_Enya.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On My Way Home",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/10_On_My_Way_Home_Enya.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On My Way Home - Remix",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/11_On_My_Way_Home_-_Remix_Enya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On My Way Home (Remix)",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/12_On_My_Way_Home_(Remix)_Enya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm On My Way",
+      "artist": "Me & My",
+      "has_synced": true,
+      "path": "select/13_I'm_On_My_Way_Me_&_My.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm On My Way",
+      "artist": "Christine McVie",
+      "has_synced": true,
+      "path": "select/14_I'm_On_My_Way_Christine_McVie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "On My Way",
+      "artist": "INXS",
+      "has_synced": true,
+      "path": "select/15_On_My_Way_INXS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "On My Way / Sex (Interlude)",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/16_On_My_Way___Sex_(Interlude)_Ginuwine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On My Way",
+      "artist": "Charlu",
+      "has_synced": false,
+      "path": "select/pl_01_On_My_Way_Charlu.txt"
+    }
+  ]
+}
